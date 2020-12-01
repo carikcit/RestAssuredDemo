@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6cf4cb8-0072-4d72-805b-8254353a74dd" name="Default Changelist" comment="" />
+    <list default="true" id="d6cf4cb8-0072-4d72-805b-8254353a74dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/PracticeTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PracticeTest1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,21 +16,19 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1f0ba9iqixajy8Vdxz0b6d814Ho" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager" selected="TestNG.PracticeTest1">
@@ -86,7 +86,19 @@
       <option name="presentableId" value="Default" />
       <updated>1595358017056</updated>
     </task>
+    <task id="LOCAL-00001" summary="notify all">
+      <created>1606835423701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606835423701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="notify all" />
+    <option name="LAST_COMMIT_MESSAGE" value="notify all" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1595358469485">
