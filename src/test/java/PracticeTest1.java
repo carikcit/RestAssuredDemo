@@ -109,6 +109,7 @@ public class PracticeTest1 {
                 .contentType(ContentType.JSON)
                 .body("places[0].state", equalTo("California"));
 
+
     }
 
     @Test
