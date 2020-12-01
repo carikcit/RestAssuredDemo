@@ -59,7 +59,7 @@ public class PracticeTest1 {
                 .when()
                 .get("/us/90210")
                 .then()
-                .log().body();
+                .log().body().notifyAll();
     }
 
     @Test
