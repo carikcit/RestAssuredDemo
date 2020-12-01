@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6cf4cb8-0072-4d72-805b-8254353a74dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PracticeTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PracticeTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PracticeTest1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606842295461</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refactored file name">
+      <created>1606842923235</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606842923235</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,10 +157,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="657" y="279" key="#Notifications/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606842769507" />
-    <state x="383" y="0" key="CommitChangelistDialog2" timestamp="1606842294762">
+    <state x="383" y="0" key="CommitChangelistDialog2" timestamp="1606842922593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="383" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606842294762" />
+    <state x="383" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606842922593" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606842898694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -172,9 +177,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606842898694" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1606842298325">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1606842925429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606842298325" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606842925429" />
   </component>
 </project>

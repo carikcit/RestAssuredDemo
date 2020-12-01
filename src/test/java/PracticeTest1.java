@@ -108,8 +108,6 @@ public class PracticeTest1 {
                 .statusCode(200)
                 .contentType(ContentType.JSON)
                 .body("places[0].state", equalTo("California"));
-
-
     }
 
     @Test
